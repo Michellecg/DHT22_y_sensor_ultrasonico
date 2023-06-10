@@ -103,7 +103,7 @@ void loop()
 }
 
 ``` 
-3. Instalar la libreria de DHT sensor library for ESPx y LiquidCrystal I2C como se muestra en la siguente imagen.
+3.En nstalar la libreria de **DHT sensor library for ESPx** y **LiquidCrystal I2C** como se muestra en la siguente imagen.
 
 ![](https://github.com/Michellecg/DHT22_y_sensor_ultrasonico/blob/main/Lib_Ult_Temp.PNG)
 
